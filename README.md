@@ -20,10 +20,10 @@
 
 ---
 
-## 🛠️ Tech Stack (Web Only)
+## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,c,java,github,vscode" />
 </p>
 
 ---
