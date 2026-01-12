@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Rohit
 
-<!--
-**rohitdevx-2007/rohitdevx-2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BCA Student**  
+💻 **Aspiring Software Developer**  
+🚀 Passionate about learning, building, and improving every day
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 🌱 Currently learning **Web Development**
+- 🧠 Interested in **problem solving & clean code**
+- 🎯 Goal: Become a skilled **Software Developer**
+
+---
+
+## 📌 Current Focus
+- 🔹 Web development basics
+- 🔹 Building beginner-friendly projects
+
+---
+
+## 🔗 Connect With Me
+- 🌐 GitHub: https://github.com/rohit-dev-2007
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
