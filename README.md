@@ -28,37 +28,6 @@
 
 ---
 
-## 📂 Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Responsive Landing Page</h3>
-      <p align="center">
-        <a href="https://github.com/rohit-dev-2007/landing-page">
-          <img src="https://user-images.githubusercontent.com/placeholder/landing.png" width="100%" />
-        </a>
-      </p>
-      <p align="center">
-        A modern, fully responsive landing page built using HTML & CSS.
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">JavaScript Mini Projects</h3>
-      <p align="center">
-        <a href="https://github.com/rohit-dev-2007/js-mini-projects">
-          <img src="https://user-images.githubusercontent.com/placeholder/js.png" width="100%" />
-        </a>
-      </p>
-      <p align="center">
-        A collection of beginner-friendly JavaScript projects.
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🎯 What I’m Working On
 - ✔️ Improving frontend fundamentals
 - ✔️ Writing clean, maintainable code
