@@ -1,56 +1,57 @@
-<!-- PROFILE HEADER -->
 <h1 align="center">Hi 👋, I'm Rohit</h1>
-<h3 align="center">Web Developer | BCA Student</h3>
+<h3 align="center">E-Commerce Executive | BCA Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Web+Developer+in+Progress;HTML+%7C+CSS+%7C+JavaScript" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=E-Commerce+Executive+at+Spectra+Overseas;BCA+Student;Learning+and+Growing+Every+Day" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rohit-dev-2007&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor counter"/>
+  <img src="https://komarev.com/ghpvc/?username=rohitdevx-2007&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🌐 About Me
-- 🎓 BCA Student with a strong focus on **Web Development**
-- 🌱 Learning and building with **HTML, CSS, JavaScript**
-- 🎨 Passionate about **clean UI & responsive design**
-- 🚀 Goal: Become a **Professional Web Developer**
+## 👨‍💼 About Me
+
+- 💼 Working at **Spectra Overseas** as **E-Commerce Executive**
+- 🎓 Pursuing **BCA**
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 Work Experience
+
+### 🏢 Spectra Overseas  
+**E-Commerce Executive**  
+📍 March 2026 - Present
+
+- Managing online marketplace operations  
+- Product listings & optimization  
+- Order handling & daily operations  
+- E-commerce growth support  
+- Data & catalog management  
+
+---
+
+## 🛠️ Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,c,java,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,github,vscode" />
 </p>
 
 ---
 
-## 🎯 What I’m Working On
-- ✔️ Improving frontend fundamentals
-- ✔️ Writing clean, maintainable code
-- ✔️ Creating real-world web projects
-- ✔️ Growing consistently on GitHub
+## 📫 Connect With Me
 
----
-
-## 🌍 Connect With Me
 <p align="center">
-  <a href="https://github.com/rohit-dev-2007">
-    <img src="https://img.shields.io/badge/GitHub-rohit--dev--2007-black?style=for-the-badge&logo=github" />
+  <a href="mailto:vadherrohit239@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://wa.me/9274738705">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+  <a href="https://github.com/rohitdevx-2007">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.instagram.com/_its_rohit_239?igsh=MXhtcXh3OHU2czByYw==">
+
+  <a href="https://instagram.com/rohit.devx">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-</p>
-
----
-
-<p align="center">
-  💡 <i>"Design. Code. Improve. Repeat."</i>
 </p>
